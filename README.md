@@ -31,6 +31,7 @@ The project uses the following tables:
 | `patients` | Contains patient information, including patient ID, name, age, gender, and city. |
 | `admissions` | Contains admission records, patient IDs, department IDs, admission dates, discharge dates, and bill amounts. |
 | `departments` | Contains department IDs and department names. |
+Dashboard 2.png
 
 ## SQL Analysis
 
