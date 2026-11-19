@@ -14,7 +14,6 @@ The project uses **MySQL** for data storage and SQL-based analysis and **Microso
 - Explore hospital revenue and billing data.
 - Build an interactive dashboard to support data-driven decision-making.
 - Dashboard 1.png
-- Dashboard 11.png
 
 ## Tools & Technologies
 - MySQL
