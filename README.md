@@ -13,7 +13,7 @@ The project uses **MySQL** for data storage and SQL-based analysis and **Microso
 - Evaluate patient length of stay.
 - Explore hospital revenue and billing data.
 - Build an interactive dashboard to support data-driven decision-making.
-- Dashboard 1.png
+-https://github.com/Ranjiniiips/Hospital-Intelligence-and-Patient-care-Analytics/blob/main/Dashboard%201.png
 
 ## Tools & Technologies
 - MySQL
