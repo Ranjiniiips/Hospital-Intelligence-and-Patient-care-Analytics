@@ -1,5 +1,6 @@
  # Hospital Intelligence & Patient Care Analytics
-![POWER BI ]Click here for POWER BI Link - (https://app.powerbi.com/groups/me/reports/44d261e5-d165-426e-ad74-b75aa0627557/7f6d9429c400e9a350dc?experience=power-bi)
+ 
+ Click here for POWER BI Link ![POWER BI ](https://app.powerbi.com/groups/me/reports/44d261e5-d165-426e-ad74-b75aa0627557/7f6d9429c400e9a350dc?experience=power-bi)
 ## Project Overview
 Hospital Intelligence & Patient Care Analytics is a data analytics project designed to analyze hospital admissions, patient information, departmental performance, length of stay, and revenue.
 
