@@ -21,6 +21,7 @@ The project uses **MySQL** for data storage and SQL-based analysis and **Microso
 - Microsoft Power BI
 - DAX
 - Data Visualization
+- ![Dashboard](Dashboard 11.png)
 
 ## Database Structure
 
