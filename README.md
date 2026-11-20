@@ -1,4 +1,4 @@
-# Hospital Intelligence & Patient Care Analytics
+ # Hospital Intelligence & Patient Care Analytics
 
 ## Project Overview
 Hospital Intelligence & Patient Care Analytics is a data analytics project designed to analyze hospital admissions, patient information, departmental performance, length of stay, and revenue.
@@ -13,7 +13,7 @@ The project uses **MySQL** for data storage and SQL-based analysis and **Microso
 - Evaluate patient length of stay.
 - Explore hospital revenue and billing data.
 - Build an interactive dashboard to support data-driven decision-making.
-- Dashboard 1.png
+- ![Dashboard](Dashboard 1.png)
 
 ## Tools & Technologies
 - MySQL
@@ -31,7 +31,7 @@ The project uses the following tables:
 | `patients` | Contains patient information, including patient ID, name, age, gender, and city. |
 | `admissions` | Contains admission records, patient IDs, department IDs, admission dates, discharge dates, and bill amounts. |
 | `departments` | Contains department IDs and department names. |
-Dashboard 2.png
+![Dashboard2](Dashboard 2.png)
 
 ## SQL Analysis
 
